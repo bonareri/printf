@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *heeh
+ * heeh
  *
  * Return: Always 0
  */
